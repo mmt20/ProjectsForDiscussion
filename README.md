@@ -4,7 +4,7 @@ In this README.md file, you will find a brief description of the projects that a
 
 ## 1. School Bus Tracking
 
-It is your convenient solution for real-time school bus tracking. With a user-friendly website and app, you can effortlessly monitor your child's bus location, ensuring a safe and punctual commute. Plus, with the Student Ridership service, you'll know when your child has boarded and disembarked from the bus for added peace of mind.
+It is your convenient solution for real-time school bus tracking. With a user-friendly website and app, you can effortlessly monitor your child's bus location, ensuring a safe and punctual commute. Plus,  you'll know when your child has boarded and disembarked from the bus for added peace of mind.
 
 ## 2. E-Signature
 
